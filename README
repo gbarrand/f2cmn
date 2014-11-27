@@ -1,8 +1,8 @@
 
  To build :
-   cd ./inlib/examples/cpp
-   c++ -I../.. f2cmn.cpp
+   UNIX> cd ./inlib/examples/cpp
+   UNIX> c++ -I../.. f2cmn.cpp
 
  To run :
-   ./a.out [options]
+   UNIX> ./a.out [options]
 
